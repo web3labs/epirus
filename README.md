@@ -11,7 +11,7 @@ making it really straight-forwards to run the plaform locally and start developi
 apps (DApps) on the blockchain.
 
 Please [contact us](https://blk.io/index.html#contactus) if If you'd like to use the full version 
-of the platform that includes on premise/cloud/SaaS deployments, integrated authentication and  
+of the platform that includes on premise/cloud/SaaS deployments, integrated authentication and 
 support services.
 
 ## Getting started
