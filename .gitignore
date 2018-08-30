@@ -4,3 +4,7 @@
 
 # OS X
 .DS_Store
+
+# Ignore cloned project files
+blk-explorer-free
+crux
