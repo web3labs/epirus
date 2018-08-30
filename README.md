@@ -1,13 +1,14 @@
-# Epirus
+![alt text](https://raw.githubusercontent.com/blk-io/epirus/master/img/epirus.png "Epirus")
 
 ## Introduction
 
 The Enterprise Ethereum platform.
 
-The platform that provides everything you need to deploy, run and integrate with a blockchain in production.
+Epirus provides everything you need to deploy, run and integrate with a blockchain in production.
 
-We've made available a bundled distribution of some of the core components of the platform making it really
-straight-forwards to run the plaform locally and start developing decentralised apps (DApps) on the blockchain.
+This repository contains a bundled distribution of some of the core components of the platform 
+making it really straight-forwards to run the plaform locally and start developing decentralised 
+apps (DApps) on the blockchain.
 
 ## Getting started
 
@@ -24,16 +25,7 @@ It spins up a [4 node Quorum network](https://github.com/blk-io/crux/tree/master
 [Crux](https://github.com/blk-io/crux) as the secure enclave communicating over gRPC and brings up the
 [Blockchain Explorer](https://github.com/blk-io/blk-explorer-free) to view all the transactions.
 
-```bash
-
-███████╗██████╗ ██╗██████╗ ██╗   ██╗███████╗
-██╔════╝██╔══██╗██║██╔══██╗██║   ██║██╔════╝
-█████╗  ██████╔╝██║██████╔╝██║   ██║███████╗
-██╔══╝  ██╔═══╝ ██║██╔══██╗██║   ██║╚════██║
-███████╗██║     ██║██║  ██║╚██████╔╝███████║
-╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-by blk.io (hi@blk.io)
-```
+![alt text](https://raw.githubusercontent.com/blk-io/blk-explorer-free/master/docs/source/ExplorerCaption.png "Blk-Explorer-Free")
 
 To stop the all the docker containers, use:
 
