@@ -1,6 +1,6 @@
-#Epirus
+# Epirus
 
-##Introduction
+## Introduction
 
 The Enterprise Ethereum platform.
 
