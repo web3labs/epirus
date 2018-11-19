@@ -48,3 +48,8 @@ To stop the all the docker containers, use:
 
 The first time you run the script it will take a number of minutes to start up as Docker images 
 need to be downloaded.
+
+
+## Below is a diagram displaying the core components of Epirus.
+
+![alt text](https://github.com/JohnChangUK/epirus/blob/master/EpirusDiagram.png "Epirus components")
