@@ -14,6 +14,10 @@ Please [contact us](https://blk.io/index.html#contactus) if If you'd like to use
 of the platform that includes on premise/cloud/SaaS deployments, integrated authentication and 
 support services.
 
+## Architecture
+
+This bundled distribution consists of the below components.
+
 ![alt text](https://raw.githubusercontent.com/blk-io/epirus/master/img/architecture.png "Epirus Architecture")
 
 ## Getting started
