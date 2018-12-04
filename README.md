@@ -14,6 +14,8 @@ Please [contact us](https://blk.io/index.html#contactus) if If you'd like to use
 of the platform that includes on premise/cloud/SaaS deployments, integrated authentication and 
 support services.
 
+![alt text](https://raw.githubusercontent.com/blk-io/epirus/master/img/architecture.png "Epirus Architecture")
+
 ## Getting started
 
 The fastest way to start the whole software stack is to run the below script. You will need 
