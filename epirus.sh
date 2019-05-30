@@ -13,7 +13,7 @@ else
 fi
 
 if [ ! -d blk-explorer-free ]; then
-    git clone https://github.com/blk-io/blk-explorer-free.git
+    git clone https://github.com/blk-io/epirus-free.git
 else
     cd blk-explorer-free && git pull && cd ..
 fi
